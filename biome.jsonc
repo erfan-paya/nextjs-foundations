@@ -12,12 +12,14 @@
   },
   "formatter": {
     "enabled": true,
-    "indentStyle": "space"
+    "indentStyle": "space",
+    "indentWidth": 4
   },
   "javascript": {
     "formatter": {
       "quoteStyle": "double",
-      "trailingCommas": "es5"
+      "trailingCommas": "es5",
+      "indentWidth": 4
     }
   },
   "linter": {
